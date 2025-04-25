@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Login App</string>
+    
+    <!-- Login Screen -->
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_login">Login</string>
+    <string name="error_empty_username">Username cannot be empty</string>
+    <string name="error_empty_password">Password cannot be empty</string>
+    <string name="error_login_failed">Login failed. Please try again.</string>
+    <string name="error_network">Network error. Please check your connection.</string>
+
+    <!-- Home Screen -->
+    <string name="title_upload_image">Upload Image</string>
+    <string name="btn_select_image">Select Image</string>
+    <string name="btn_upload">Upload Image</string>
+    <string name="btn_logout">Logout</string>
+    <string name="msg_select_image">Please select an image first</string>
+    <string name="msg_upload_success">Image uploaded successfully</string>
+    <string name="msg_upload_failed">Upload failed. Please try again.</string>
+    <string name="msg_error_prepare_image">Error preparing image for upload</string>
+</resources>
